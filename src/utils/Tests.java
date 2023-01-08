@@ -9,4 +9,7 @@ public class Tests {
     // working TC 124
 
     //......
+    public static void main(String[] args) {
+        MainUtils.coolMethod();
+    }
 }
